@@ -19,7 +19,10 @@ Training a DNN on CIFAR-10 dataset
 Use Spatially Separable Convolution, Depthwise Separable Convolution, Grouped Convolution with Dialation on CIFAR-10 dataset (Learning to use keras functional APIs)
 
 ### Assignment 6 :
-One Cycle Policy on CIFAR-10 
+One Cycle Policy on CIFAR-10 using DavidNet
+
+### Assignment 7 :
+CyclicLR on CIFAR-10 using ResNet-18
 
 ### LearningPytorch_MNIST :
 Getting familiar with PyTorch syntax
